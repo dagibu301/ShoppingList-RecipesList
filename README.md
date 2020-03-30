@@ -1,27 +1,23 @@
-# ShoppingRecipes
+# Shopping list/ Recipes List :rocket:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+## :rocket: Technologies used
+This project was developed using this technologies:
+- [Angular](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
 
-## Development server
+## :computer: Project
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This is Shopping list and a recipes list Angular project
 
-## Code scaffolding
+## :memo: License
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This project is under the license of MIT. See here the archive [LICENSE](LICENSE.md) para mais detalhes.
 
-## Build
+## :muscle: Any questions or willing to colaborate in a project?
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+You can contact me by mail: davidgiraldobueno@gmail.com
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Done with :purple_heart: by David Giraldo :wave:
